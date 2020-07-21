@@ -19,6 +19,6 @@
   "homepage": "https://github.com/joshbwlng/depfu-test#readme",
   "dependencies": {
     "array-first": "^1.0.1",
-    "is-sorted": "^1.0.4"
+    "is-sorted": "^1.0.5"
   }
 }
